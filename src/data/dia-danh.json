@@ -1,0 +1,10 @@
+[
+  { "id": 1, "ten": "Đại Nội Huế", "khuVuc": "Trung tâm", "hinhAnh": "/images/dainoi.jpg", "moTa": "Hoàng thành & Tử Cấm Thành triều Nguyễn, di sản văn hóa thế giới UNESCO bên bờ sông Hương." },
+  { "id": 2, "ten": "Chợ Đông Ba", "khuVuc": "Trung tâm", "hinhAnh": "/images/trangtien.jpg", "moTa": "Khu chợ trăm năm sầm uất, thiên đường quà lưu niệm và ẩm thực nức tiếng Cố Đô." },
+  { "id": 3, "ten": "Cầu Tràng Tiền", "khuVuc": "Trung tâm", "hinhAnh": "/images/trangtien.jpg", "moTa": "Biểu tượng thi ca của xứ Huế thơ mộng, lung linh huyền ảo với hệ thống đèn nghệ thuật về đêm." },
+  { "id": 4, "ten": "Lăng Khải Định", "khuVuc": "Ngoại ô", "hinhAnh": "/images/khaidinh.jpg", "moTa": "Đỉnh cao nghệ thuật khảm sành sứ, pha trộn tinh xảo giữa kiến trúc Cung đình Á Đông và Tây phương." },
+  { "id": 5, "ten": "Lăng Tự Đức", "khuVuc": "Ngoại ô", "hinhAnh": "/images/khaidinh.jpg", "moTa": "Bức tranh sơn thủy hữu tình, chốn thanh tịnh mang đậm hồn thơ và phong cảnh thi vị." },
+  { "id": 6, "ten": "Chùa Thiên Mụ", "khuVuc": "Ven sông", "hinhAnh": "/images/thienmu.jpg", "moTa": "Ngôi đệ nhất cổ tự xứ Huế bên đồi Hà Khê, với tháp Phước Duyên 7 tầng soi bóng nước dòng Hương." },
+  { "id": 7, "ten": "Sông Hương", "khuVuc": "Trung tâm", "hinhAnh": "/images/thienmu.jpg", "moTa": "Dòng sông êm đềm như dải lụa xanh biếc vắt ngang thành phố cổ kính, linh hồn của xứ Huế." },
+  { "id": 8, "ten": "Cầu Ngói Thanh Toàn", "khuVuc": "Ngoại ô", "hinhAnh": "/images/dainoi.jpg", "moTa": "Chiếc cầu ngói cổ kính độc đáo 'thượng gia hạ kiều' mang đậm nét thanh bình của làng quê Việt." }
+]

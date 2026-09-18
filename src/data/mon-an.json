@@ -1,0 +1,8 @@
+[
+  { "id": 1, "ten": "Bún bò Huế Đặc Biệt", "gia": 45000, "moTa": "Nước dùng sa tế sả thơm lừng hầm xương ống, thịt bắp hoa bò, giò heo giòn ngậy và chả cua quết tay.", "hinhAnh": "/images/bun.png", "khauVi": "Cay nồng, đậm đà" },
+  { "id": 2, "ten": "Cơm hến Hoa Đông", "gia": 28000, "moTa": "Hến xào đậm vị ăn cùng tóp mỡ giòn tan béo ngậy, bắp chuối thái mỏng chan nước dùng hến ngọt thanh.", "hinhAnh": "/images/comhen.png", "khauVi": "Cay the, mộc mạc" },
+  { "id": 3, "ten": "Bánh bèo Cung Đình", "gia": 32000, "moTa": "Bánh bèo đúc trong từng chén sứ nhỏ mềm mướt, rắc tôm chấy đỏ au vàng rượm cùng mỡ hành thơm phức.", "hinhAnh": "/images/banhbeo.png", "khauVi": "Thanh mát, mềm dẻo" },
+  { "id": 4, "ten": "Bánh nậm lá dong", "gia": 25000, "moTa": "Bánh nậm gói lá dong thơm ngát, bột gạo dẻo mềm ôm trọn lớp nhân tôm thịt xào thơm ngon tuyệt hảo.", "hinhAnh": "/images/banhnam.png", "khauVi": "Thanh tao, đậm vị" },
+  { "id": 5, "ten": "Bánh bột lọc trần", "gia": 35000, "moTa": "Vỏ bánh dai trong veo thấy rõ nguyên con tôm sông rim mặn ngọt cùng thịt mỡ óng ánh, chấm nước mắm ớt cay xè.", "hinhAnh": "/images/banhloc.png", "khauVi": "Dai giòn, cay nồng" },
+  { "id": 6, "ten": "Chè sen long nhãn", "gia": 22000, "moTa": "Món tráng miệng hoàng gia thanh mát với hạt sen hồ Tịnh Tâm bùi bở bọc trong cùi nhãn tươi ngọt giòn.", "hinhAnh": "/images/che.png", "khauVi": "Thanh ngọt, êm dịu" }
+]

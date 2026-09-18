@@ -1,0 +1,21 @@
+/* src/components/The.css */
+.the {
+  border: 1px solid #cbd2d9;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+.the__dau {
+  background: #0f6e6a;
+  color: #ffffff;
+  padding: 10px 16px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.the__than {
+  padding: 16px 18px;
+}

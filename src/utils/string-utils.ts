@@ -4,7 +4,7 @@
 // ============================================================
 
 // NAMED EXPORT: xuất có tên — có thể xuất nhiều trong 1 file
-export function formatDate(date) {
+export function formatDate(date: Date) {
     return date.toLocaleDateString('vi-VN', {
         year: 'numeric',
         month: '2-digit',
@@ -12,12 +12,12 @@ export function formatDate(date) {
     });
 }
 
-export function truncate(str, maxLength = 50) {
+export function truncate(str: string, maxLength = 50) {
     if (str.length <= maxLength) return str;
     return str.slice(0, maxLength - 3) + '...';
 }
 
-export function toSlug(title) {
+export function toSlug(title: string) {
     return title
         .toLowerCase()
         .replace(/\s+/g, '-')
